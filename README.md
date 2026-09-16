@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0151-reverse-words-in-a-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -51,5 +52,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
