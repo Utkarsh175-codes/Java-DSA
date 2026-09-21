@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1903-largest-odd-number-in-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
