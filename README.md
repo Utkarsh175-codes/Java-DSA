@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2643-row-with-maximum-ones) |
 | [2742-painting-the-walls](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2742-painting-the-walls) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -74,9 +77,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
