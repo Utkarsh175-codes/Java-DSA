@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [2643-row-with-maximum-ones](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2643-row-with-maximum-ones) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Greedy
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0443-string-compression) |
 ## Sorting
@@ -96,8 +99,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0796-rotate-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
