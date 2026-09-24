@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -117,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
