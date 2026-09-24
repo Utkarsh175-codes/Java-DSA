@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0268-missing-number) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0410-split-array-largest-sum) |
 | [2742-painting-the-walls](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2742-painting-the-walls) |
 ## Binary Search
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
