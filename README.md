@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2643-row-with-maximum-ones) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
