@@ -20,7 +20,7 @@ class Solution {
             else {
                 ans[k] = nums1[i];
                 k++;
-                i++;
+                i++;  // Here we did not increment j because if the element is same in j and i then it will take that element of i and increment i but we need to take the element of j also as we need to include duplicates too so in next iteration j gets added in ans, although it is the same element
             }
         }
         while(i < m) {
