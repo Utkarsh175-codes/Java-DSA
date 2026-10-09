@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0054-spiral-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Utkarsh175-codes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
