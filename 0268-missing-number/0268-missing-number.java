@@ -1,6 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int arrsum = 0;
+        int xorSum = 0;
+
+        for(int i = 0; i < nums.length; i++){
+            xorSum = xorSum ^ nums[i];
+        }
+
+        int n = nums.length;
+        for(int i = 0; i <= n; i++){
+            xorSum = xorSum ^ i;
+        }
+        return xorSum;
+    }
+}
+/*int arrsum = 0;
         for(int i = 0;i < nums.length;i++){
             arrsum = arrsum + nums[i];
         }
@@ -8,6 +21,4 @@ class Solution {
         int realsum = nums.length * (nums.length + 1) /2;
 
         int missingnum = realsum - arrsum;
-        return missingnum;
-    }
-}
+        return missingnum;*/
